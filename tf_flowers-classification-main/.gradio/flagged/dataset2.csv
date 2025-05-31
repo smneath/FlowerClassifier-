@@ -1,0 +1,2 @@
+img,output,timestamp
+,"{""label"": ""Roses"", ""confidences"": [{""label"": ""Roses"", ""confidence"": 0.8852347135543823}, {""label"": ""Tulips"", ""confidence"": 0.05983049422502518}, {""label"": ""Daisy"", ""confidence"": 0.04307526350021362}, {""label"": ""Dandelion"", ""confidence"": 0.00876097846776247}, {""label"": ""Sunflowers"", ""confidence"": 0.003098636632785201}]}",2025-05-11 11:55:58.532472
